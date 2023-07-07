@@ -1,6 +1,14 @@
 # IPL Chatbot
 
 This project is an IPL (Indian Premier League) chatbot built using Google Dialogflow and Flask. It provides information and interacts with users regarding IPL match details, team information, match statistics, stadium details, and toss decisions.
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 ## Demo Video
 [IPL 2019 Chatbot](https://youtu.be/_dxrjlonAcI)
 ## Features
