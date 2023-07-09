@@ -69,8 +69,6 @@ For any questions or suggestions regarding the IPL chatbot project, please reach
 
 - [Jasteg Singh](jastegsingh007@gmail.com)
 
-Feel free to modify the contact information with your own details.
-
 ---
 
 
